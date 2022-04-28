@@ -12,20 +12,3 @@
     color: #e9e9e9;
     font-family: 'Poppins', sans-serif;
 }
-
-h1 {
-    margin: 5px 0 0 0;
-}
-
-h2 {
-    margin: 0px 0 5px 0;
-}
-
-p {
-    font-size: 2.5vmin;
-    width: 55rem;
-}
-
-a {
-    color: #fff;
-}
