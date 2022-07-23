@@ -33,7 +33,7 @@ function App() {
                         <p>O gatoplanismo foi oficialmente datado como um idealismo em 27 de Abril de 2022 por Anderson
                             "Yagasaki" Marlon, fundador do projeto, o mesmo acredita que a Terra é redonda.
                         </p>
-                        <a href="https://twitter.com/Yagasaki7k">Twitter do Fundador</a>
+                        <a href="https://twitter.com/Yagasaki7k">Twitter do Fundador</a> - <a href="https://discord.gg/8jpp5GYbMT" target="_blank">Discord</a>
                     </div>
                 </HomeDetails>
             </header>
