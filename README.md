@@ -15,6 +15,8 @@ Sendo um Gatoplanista consequentemente você pode ser Terraplanista ou acreditar
 
 O gatoplanismo foi oficialmente datado como um idealismo em 27 de Abril de 2022 por Anderson "Yagasaki" Marlon, fundador do projeto, o mesmo acredita que a Terra é redonda.
 
+[Discord](https://discord.gg/8jpp5GYbMT)
+
 ---
 
 # English-ENUS
@@ -30,3 +32,5 @@ Gatoplanism is an ideal that can believe both in the idea of flat-Earthers and i
 Being a Gatoplanist and consequently you can be a Flat-Earther or believe that it is round, this does not interfere with our idealism at all.
 
 The Gatoplanism was officially dated as an idealism on April 27, 2022 by Anderson "Yagasaki" Marlon, founder of the project, who believes the Earth is round.
+
+[Discord](https://discord.gg/8jpp5GYbMT)
